@@ -1,5 +1,9 @@
 h1{
+<<<<<<< HEAD
     background-color: red;
+=======
+    background-color: yellow;
+>>>>>>> style
     color: white;
     padding: 15;
 }
